@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/python:1-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/python:13-bookworm",
   "features": {
     "ghcr.io/devcontainers-contrib/features/coverage-py:2": {},
     "ghcr.io/devcontainers/features/node:1": {
